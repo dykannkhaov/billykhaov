@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Billy 👋 </h1>
+<h1>Hey there, I'm Dykann 👋 </h1>
 
 <p>I'm a Front-End Developer in love with <b>React</b> & <b>Typescript</b></p>
 <div>
