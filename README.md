@@ -8,7 +8,7 @@
       <img align="center" alt="Typescript" width="32px" src="https://miro.medium.com/max/1400/1*TpbxEQy4ckB-g31PwUQPlg.png"/>
       <img align="center" alt="Javascript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
   <img align="center" alt="Next" width="35px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"/>
-  <img align="center" alt="Remix" width="35px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" />  
+  <img align="center" alt="Remix" width="35px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" />
   <img align="center" alt="Tailwind" width="35px" src="https://user-images.githubusercontent.com/61904483/149953059-48994f50-0746-404b-91ca-d093c0684a1b.png"/>
   <img align="center" alt="CSS3" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
   <img align="center" alt="Storybook" width="30px" src="https://user-images.githubusercontent.com/61904483/174441878-32d0781a-d69d-4915-9c9b-5bbc3f9d9f6a.png"/>
